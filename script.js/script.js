@@ -15,6 +15,7 @@ let perguntaAtual;
 let historiaFinal = "";
 
 botaoIniciar.addEventListener('click', iniciaJogo);
+<script src="script.js"></script>
 
 
 function iniciaJogo() {
